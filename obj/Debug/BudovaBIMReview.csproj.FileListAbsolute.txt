@@ -1,0 +1,10 @@
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\bin\Debug\BudovaBIMReview.dll
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\bin\Debug\BudovaBIMReview.pdb
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\BudovaBIMReview.csproj.AssemblyReference.cache
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\Forms\ProgressBar.baml
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\Forms\ProgressBar.g.cs
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\BudovaBIMReview_MarkupCompile.cache
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\BudovaBIMReview.g.resources
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\BudovaBIMReview.csproj.CoreCompileInputs.cache
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\BudovaBIMReview.dll
+D:\Revit API\BudovaBIMReview\BudovaBIMReview\obj\Debug\BudovaBIMReview.pdb

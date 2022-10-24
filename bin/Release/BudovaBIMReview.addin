@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BudovaApplication</Name>
+    <Assembly>BudovaBIMReview\BudovaBIMReview.dll</Assembly>
+    <ClientId>42237e4e-1fee-4ab9-a791-c32ae6e530a9</ClientId>
+    <FullClassName>BudovaBIM.BudovaApplication</FullClassName>
+    <VendorId>PietukhovSerhii</VendorId>
+    <VendorDescription>PietukhovSerhii</VendorDescription>
+  </AddIn>
+</RevitAddIns>
